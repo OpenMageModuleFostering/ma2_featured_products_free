@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Ma2 Featured Products helps you manage and display featured products in store frontend as a page, block and widget.
